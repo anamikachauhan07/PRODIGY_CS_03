@@ -20,15 +20,6 @@ This project was developed as part of the **Prodigy Infotech Cyber Security Inte
 - Python 3
 - Regular Expressions (`re` module)
 
-## 📂 Project Structure
-
-PRODIGY_CS_03/
-│
-
-├── password_checker.py
-
-└── README.md
-
 ## ⚙️ How It Works
 
 The program evaluates a password using five security criteria:
