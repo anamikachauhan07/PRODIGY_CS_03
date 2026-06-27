@@ -23,12 +23,9 @@ This project was developed as part of the **Prodigy Infotech Cyber Security Inte
 ## 📂 Project Structure
 
 ```text
-PRODIGY_CS_02/
+PRODIGY_CS_03/
 │
-├── image_encryption.py
-├── ima.jpg
-├── encrypted.png
-├── recovered.jpg
+├── password_checker.py
 └── README.md
 ```
 
