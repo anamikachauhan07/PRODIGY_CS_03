@@ -20,6 +20,18 @@ This project was developed as part of the **Prodigy Infotech Cyber Security Inte
 - Python 3
 - Regular Expressions (`re` module)
 
+## 📂 Project Structure
+
+```text
+PRODIGY_CS_02/
+│
+├── image_encryption.py
+├── ima.jpg
+├── encrypted.png
+├── recovered.jpg
+└── README.md
+```
+
 ## ⚙️ How It Works
 
 The program evaluates a password using five security criteria:
