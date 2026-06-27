@@ -24,7 +24,9 @@ This project was developed as part of the **Prodigy Infotech Cyber Security Inte
 
 PRODIGY_CS_03/
 │
+
 ├── password_checker.py
+
 └── README.md
 
 ## ⚙️ How It Works
@@ -44,6 +46,7 @@ Each satisfied criterion increases the overall security score.
 ### Clone the Repository
 
 git clone https://github.com/anamikachauhan07/PRODIGY_CS_03.git
+
 cd PRODIGY_CS_03
 
 ### Run the Program
